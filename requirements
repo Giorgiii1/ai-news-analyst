@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+chromadb
+newsapi-python
+google-generativeai
+python-dotenv
